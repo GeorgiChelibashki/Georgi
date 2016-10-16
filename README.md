@@ -1,2 +1,0 @@
-# Georgi
-portfolio
